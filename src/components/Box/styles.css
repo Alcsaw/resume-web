@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem 1.6rem;
+  background-color: var(--color-box-base);
+  width: 100%;
+  margin: 1rem 0;
+  color: var(--color-text-base);
+}
+
+.box strong {
+  font-size: 2.4rem;
+  color: var(--color-text-title);
+}
