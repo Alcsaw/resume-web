@@ -5,6 +5,12 @@
   max-width: 100%;
 }
 
+.footer-note {
+  margin: 1.6rem 0;
+  position: relative;
+  align-self: flex-end;
+}
+
 @media (min-width: 700px) {
 
 }

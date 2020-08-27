@@ -1,0 +1,25 @@
+.certification-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.item-name {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.6rem;
+}
+
+.issuer-link {
+  text-decoration: none;
+  color: var(--color-primary-dark);
+}
+
+.certification-grade {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  font-size: 1.2rem;
+}
