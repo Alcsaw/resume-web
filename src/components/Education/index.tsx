@@ -12,7 +12,7 @@ const Education: React.FC = () => {
   const certificationGrade = "GPA: 9.05";
 
   return (
-    <Box label="Education">
+    <Box label="Educação">
       <ul className="certifications-list">
         <li className="certification-item">
           <div className="item-name">
