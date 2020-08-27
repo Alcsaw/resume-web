@@ -12,11 +12,6 @@
   font-size: 1.6rem;
 }
 
-.issuer-link {
-  text-decoration: none;
-  color: var(--color-primary-dark);
-}
-
 .certification-grade {
   width: 100%;
   display: flex;
