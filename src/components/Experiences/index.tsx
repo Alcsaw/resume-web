@@ -4,8 +4,6 @@ import Box from '../Box';
 import Timeline from '../Timeline';
 import TimelineItem from '../TimelineItem';
 
-import './styles.css';
-
 const Experiences: React.FC = () => {
   return (
     <Box label="Experiências">
