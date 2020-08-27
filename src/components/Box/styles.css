@@ -11,4 +11,5 @@
 .box strong {
   font-size: 2.4rem;
   color: var(--color-text-title);
+  margin-bottom: 0.8rem;
 }

@@ -8,7 +8,7 @@
   padding: 15px 0 0  0;
   position: relative;
   /* box-shadow: 0.5rem 0.5rem 2rem 0 rgba(0, 0, 0, 0.2); */
-  margin: 1rem auto;
+
   color: var(--color-primary);
 }
 .timeline:before {
