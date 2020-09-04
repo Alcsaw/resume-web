@@ -22,7 +22,7 @@ const Projects: React.FC = () => {
   ];
 
   return (
-    <Box label="Projetos">
+    <Box label="Projects">
       <ul className="projects-list">
         {projects.map((project) => {
           return (

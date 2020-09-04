@@ -14,8 +14,8 @@ const Description: React.FC = () => {
   This attitude, together with a systemic and organizational vision makes me an innate leader, being a point of reference for teammates, whom I am happy to be able to help.`
 
   return (
-    <Box label="Resumo">
-      <p className="description-text">{description_ptbr}</p>
+    <Box label="Summary">
+      <p className="description-text">{description}</p>
     </Box>
   );
 }

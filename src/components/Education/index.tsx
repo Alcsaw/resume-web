@@ -6,7 +6,7 @@ import './styles.css';
 
 const Education: React.FC = () => {
 
-  const certificationName = "Bacharel em Ciência da Computação";
+  const certificationName = "Bachelor of computer science";
   const issuerName = "Unisc";
   const issuerLink = "unisc.br";
   const certificationGrade = "GPA: 9.05";
