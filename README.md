@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Roadmap
+- Add contact buttons;
+- Add print to PDF feature;
+- Prepare components for dinamic content;
+- Configure components to get content from a JSON file;
+- Add a setup interface for editing JSON's content;
+
 
 ## Available Scripts
 
