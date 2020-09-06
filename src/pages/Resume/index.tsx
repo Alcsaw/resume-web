@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Header from '../../components/Header';
-import Description from '../../components/Description';
+import Summary from '../../components/Summary';
 import Experiences from '../../components/Experiences';
 import Education from '../../components/Education';
 import Projects from '../../components/Projects';
@@ -12,7 +12,7 @@ export default function Resume() {
   return (
     <div id="page-resume" className="container">
       <Header />
-      <Description />
+      <Summary />
       <Experiences />
       <Education />
       <Projects />
